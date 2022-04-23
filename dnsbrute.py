@@ -1,3 +1,5 @@
+# this script was developed as a way of learning, it is not recommended to use it in real cases
+
 import dns.resolver
 
 res = dns.resolver.Resolver()
