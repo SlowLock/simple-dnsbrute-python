@@ -2,7 +2,8 @@ import dns.resolver
 
 res = dns.resolver.Resolver()
 alvo = 'bancocn.com'
-arquivo = open('/home/sl/Documentos/my/cyber-sec/scripts/wordlist.txt', 'r')
+# put the worlist path here
+arquivo = open('PUT_WORDLIST', 'r')
 subdominios = arquivo.read().splitlines()
 
 print('\033[1;36m'+'------ SUBDOMINIOS ENCONTRADOS ------'+'\033[0;0m')
