@@ -7,9 +7,9 @@ python3 dnsbrute.py
 ```
 
 ## Warning:
-edit the "dnsbrute.py" file and replace "PUT_WORDLIST" with your wordlist
+Edit the "dnsbrute.py" file and replace "PUT_WORDLIST" with your wordlist
 
-![example-wordlist](https://user-images.githubusercontent.com/92656461/164890439-7ed994d7-5c3d-4a03-b3d1-e3f5a7440a3b.png)
+![alteração](https://user-images.githubusercontent.com/92656461/164890610-48e27737-5064-4704-b81b-0a54870232f5.png)
 
 
 ## Example:
